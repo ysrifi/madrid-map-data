@@ -1,0 +1,227 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-3.710737, 40.423275],
+          [-3.706111, 40.420323],
+          [-3.705135, 40.420183],
+          [-3.704265, 40.420114],
+          [-3.702128, 40.419986],
+          [-3.701304, 40.41996],
+          [-3.700823, 40.419929],
+          [-3.6996, 40.419698],
+          [-3.698349, 40.419353],
+          [-3.697093, 40.418949]
+        ]
+      },
+      "properties": {
+        "title": "Gran Vía"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-3.705748, 40.419613],
+          [-3.705287, 40.418947],
+          [-3.705069, 40.418613],
+          [-3.704449, 40.417658],
+          [-3.704068, 40.4171]
+        ]
+      },
+      "properties": {
+        "title": "Calle de Preciados"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-3.705534, 40.419711],
+          [-3.704947, 40.418968],
+          [-3.704715, 40.418652],
+          [-3.704282, 40.418287],
+          [-3.703975, 40.41805],
+          [-3.703712, 40.417699],
+          [-3.703658, 40.417578],
+          [-3.703578, 40.417257]
+        ]
+      },
+      "properties": {
+        "title": "Calle del Carmen"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-3.701612, 40.420164],
+          [-3.701467, 40.42053],
+          [-3.701396, 40.420704],
+          [-3.701054, 40.421578],
+          [-3.700964, 40.421858],
+          [-3.700804, 40.422471],
+          [-3.700714, 40.422858],
+          [-3.700664, 40.423284],
+          [-3.700648, 40.423664],
+          [-3.700649, 40.424097],
+          [-3.700718, 40.424791],
+          [-3.700824, 40.425097],
+          [-3.700999, 40.425467],
+          [-3.701268, 40.426234],
+          [-3.701656, 40.427242],
+          [-3.702112, 40.428507]
+        ]
+      },
+      "properties": {
+        "title": "Calle de Fuencarral"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-3.688603, 40.420675],
+          [-3.688461, 40.421667],
+          [-3.688167, 40.423525],
+          [-3.687864, 40.425334],
+          [-3.68695, 40.430458],
+          [-3.686708, 40.432899]
+        ]
+      },
+      "properties": {
+        "title": "Calle de Serrano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-3.687261, 40.420513],
+          [-3.687141, 40.421394],
+          [-3.686998, 40.422487],
+          [-3.686595, 40.42523],
+          [-3.685843, 40.430248],
+          [-3.685789, 40.430577],
+          [-3.685626, 40.432782]
+        ]
+      },
+      "properties": {
+        "title": "Calle de Claudio Coello"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "LineString",
+        "coordinates": [
+          [-3.68687, 40.430455],
+          [-3.683765, 40.43031],
+          [-3.680405, 40.430167]
+        ]
+      },
+      "properties": {
+        "title": "Calle de José Ortega y Gasset"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.705113, 40.419596]
+      },
+      "properties": {
+        "title": "El Corte Inglés Callao"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.676752, 40.425096]
+      },
+      "properties": {
+        "title": "El Corte Inglés Goya"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.693587, 40.447]
+      },
+      "properties": {
+        "title": "El Corte Inglés Castellana"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.715314, 40.429993]
+      },
+      "properties": {
+        "title": "El Corte Inglés Princesa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.720496, 40.422146]
+      },
+      "properties": {
+        "title": "Centro Comercial Príncipe Pío"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.687457, 40.432022]
+      },
+      "properties": {
+        "title": "ABC Serrano"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.70661, 40.479983]
+      },
+      "properties": {
+        "title": "Centro Comercial La Vaguada"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.73743, 40.363761]
+      },
+      "properties": {
+        "title": "Centro Commercial Islazul"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.587416, 40.446641]
+      },
+      "properties": {
+        "title": "Centro Comercial Plenilunio"
+      }
+    }
+  ]
+}

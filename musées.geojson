@@ -1,0 +1,206 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.694422, 40.408049]
+      },
+      "properties": {
+        "title": "Museo Nacional Centro de Arte Reina Sofía",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/d9/Madrid_-_Museo_Nacional_Centro_de_Arte_Reina_Sof%C3%ADa_%28MNCARS%29_03.JPG",
+        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Madrid_-_Museo_Nacional_Centro_de_Arte_Reina_Sof%C3%ADa_(MNCARS)_03.JPG\">Zarateman</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+        "description": "Le musée de l’art moderne espagnol, mondialement connu pour abriter Guernica de Picasso, œuvre majeure du XXᵉ siècle.",
+        "link": "https://www.esmadrid.com/fr/information-touristique/musee-reina-sofia",
+        "linkLabel": "En savoir plus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.692041, 40.413792]
+      },
+      "properties": {
+        "title": "Museo del Prado",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/68/Museo_del_Prado_2016_%2825185969599%29.jpg",
+        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Museo_del_Prado_2016_(25185969599).jpg\">Emilio J. Rodríguez Posada</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">CC BY-SA 2.0</a>, via Wikimedia Commons",
+        "description": "L’un des plus grands musées d’art au monde, célèbre pour ses chefs-d’œuvre de Velázquez, Goya et Rubens.",
+        "link": "https://www.esmadrid.com/fr/information-touristique/museo-del-prado",
+        "linkLabel": "En savoir plus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.694932, 40.416216]
+      },
+      "properties": {
+        "title": "Museo Thyssen-Bornemisza",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/5c/Site_of_the_Retiro_and_the_Prado_in_Madrid_49_%2829684554308%29.jpg",
+        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Site_of_the_Retiro_and_the_Prado_in_Madrid_49_(29684554308).jpg\">Kyle Magnuson from Los Angeles, United States</a>, <a href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">CC BY 2.0</a>, via Wikimedia Commons",
+        "description": "Le musée qui complète parfaitement le Prado, offrant un panorama unique de la peinture européenne du Moyen Âge au XXᵉ siècle.",
+        "link": "",
+        "linkLabel": "En savoir plus"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.692512, 40.435393]
+      },
+      "properties": {
+        "title": "Museo Sorolla",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Museo_Sorolla_%28Madrid%29_07.jpg",
+        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Museo_Sorolla_(Madrid)_07.jpg\">Luis García</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/es/deed.en\">CC BY-SA 3.0 ES</a>, via Wikimedia Commons",
+        "description": "Installé dans l’ancienne maison du peintre, ce musée offre une immersion intime dans l’univers lumineux de Joaquín Sorolla et dans l’élégance d’une demeure d’artiste madrilène."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.715326, 40.415657]
+      },
+      "properties": {
+        "title": "Galería de las Colecciones Reales",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c5/Coche_de_la_Corona_Real_%28Galer%C3%ADa_de_las_Colecciones_Reales%29.jpg",
+        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Coche_de_la_Corona_Real_(Galer%C3%ADa_de_las_Colecciones_Reales).jpg\">CarlosVdeHabsburgo</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+        "description": "Ce musée récent met en valeur les trésors accumulés par la monarchie espagnole et impressionne autant par ses collections que par son architecture contemporaine."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.714515, 40.423712]
+      },
+      "properties": {
+        "title": "Museo Cerralbo",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/ec/Museo_Cerralbo%2C_Sal%C3%B3n_de_baile%2C_Madrid%2C_Espa%C3%B1a%2C_2021_23.jpg",
+        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Museo_Cerralbo,_Sal%C3%B3n_de_baile,_Madrid,_Espa%C3%B1a,_2021_23.jpg\">Benjamín Núñez González</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+        "description": "Véritable palais-musée du XIXᵉ siècle, il séduit par ses salons richement décorés et par l’atmosphère intacte d’une résidence aristocratique."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.689342, 40.452297]
+      },
+      "properties": {
+        "title": "Tour Bernabéu",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/1f/Panoramic_santiago_bernabeu.jpg",
+        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Panoramic_santiago_bernabeu.jpg\">Fernando Pascullo</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+        "description": "Expérience incontournable pour les amateurs de football, cette visite permet de découvrir les coulisses du stade Santiago Bernabéu et l’histoire légendaire du Real Madrid."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.698939, 40.426022]
+      },
+      "properties": {
+        "title": "Museo del Romanticismo",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/a3/Museo_del_Romanticismo_de_Madrid_en_marzo_de_2022_13.jpg",
+        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Museo_del_Romanticismo_de_Madrid_en_marzo_de_2022_13.jpg\">Emilio J. Rodríguez Posada</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+        "description": "Ce musée raffiné plonge le visiteur dans l’Espagne romantique du XIXᵉ siècle à travers des intérieurs élégants, des objets d’époque et une ambiance pleine de charme."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.693568, 40.41114]
+      },
+      "properties": {
+        "title": "CaixaForum Madrid",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/84/La_CaixaForum_%28Madrid%29_%284657766022%29.jpg",
+        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:La_CaixaForum_(Madrid)_(4657766022).jpg\">Jean-Pierre Dalbéra from Paris, France</a>, <a href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">CC BY 2.0</a>, via Wikimedia Commons",
+        "description": "Centre culturel audacieux du Paseo del Prado, il attire autant par ses expositions temporaires que par son architecture spectaculaire et son célèbre jardin vertical."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.692381, 40.417526]
+      },
+      "properties": {
+        "title": "Museo Naval",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/a/ad/Model_ship_and_interior_of_Museo_Naval_in_Madrid_Spain.jpg",
+        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Model_ship_and_interior_of_Museo_Naval_in_Madrid_Spain.jpg\">Tim Adams</a>, <a href=\"https://creativecommons.org/licenses/by/3.0/deed.en\">CC BY 3.0</a>, via Wikimedia Commons",
+        "description": "Un musée fascinant pour découvrir l’histoire maritime de l’Espagne, avec cartes anciennes, maquettes navales et objets liés aux grandes explorations."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.688889, 40.423429]
+      },
+      "properties": {
+        "title": "Museo Arqueológico Nacional",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Museo_Arqueol%C3%B3gico_Nacional_%2834583977144%29.jpg",
+        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Museo_Arqueol%C3%B3gico_Nacional_(34583977144).jpg\">Emilio J. Rodríguez Posada</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">CC BY-SA 2.0</a>, via Wikimedia Commons",
+        "description": "L’un des musées les plus importants d’Espagne pour comprendre les civilisations de la péninsule ibérique, de la préhistoire jusqu’aux époques plus récentes."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.721583, 40.438287]
+      },
+      "properties": {
+        "title": "Museo de América",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6e/Museo_de_Am%C3%A9rica_%28Madrid%29_03.jpg",
+        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Museo_de_Am%C3%A9rica_(Madrid)_03.jpg\">Luis García</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+        "description": "Ce musée original explore les liens entre l’Espagne et les Amériques à travers des collections riches en art, ethnographie et histoire."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.710935, 40.412151]
+      },
+      "properties": {
+        "title": "Museo de San Isidro",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/El_Museo_de_San_Isidro%2C_de_estreno_con_seis_nuevas_salas_y_fondos_in%C3%A9ditos_%2804%29.jpg",
+        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:El_Museo_de_San_Isidro,_de_estreno_con_seis_nuevas_salas_y_fondos_in%C3%A9ditos_(04).jpg\">Diario de Madrid</a>, <a href=\"https://creativecommons.org/licenses/by/4.0/deed.en\">CC BY 4.0</a>, via Wikimedia Commons",
+        "description": "Petit musée passionnant du vieux Madrid, il retrace l’histoire de la ville depuis ses origines et permet de mieux comprendre l’identité madrilène."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.685764, 40.436964]
+      },
+      "properties": {
+        "title": "Museo Lázaro Galdiano",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/6d/Museo_L%C3%A1zaro_Galdiano_%28Madrid%29_08.jpg",
+        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Museo_L%C3%A1zaro_Galdiano_(Madrid)_08.jpg\">Luis García</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+        "description": "Installé dans un élégant palais, ce musée présente une collection éclectique et prestigieuse, allant de la peinture aux arts décoratifs et aux objets rares."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.70076, 40.42579]
+      },
+      "properties": {
+        "title": "Museo de Historia de Madrid",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/2c/Museo_de_Historia_de_Madrid-Historia_de_las_colecciones-Salas_2-Sala_del_siglo_XVIII_despu%C3%A9s_de_la_exposici%C3%B3n_Madrid_pintado.jpg",
+        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Museo_de_Historia_de_Madrid-Historia_de_las_colecciones-Salas_2-Sala_del_siglo_XVIII_despu%C3%A9s_de_la_exposici%C3%B3n_Madrid_pintado.jpg\">Museo de Historia de Madrid</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+        "description": "Installé dans un superbe bâtiment baroque, ce musée raconte l’évolution de Madrid à travers les siècles avec une approche claire, vivante et très accessible."
+      }
+    }
+  ]
+}
