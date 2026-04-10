@@ -5,14 +5,14 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.683285, 40.414946]
+        "coordinates": [-3.703838, 40.416655]
       },
       "properties": {
-        "title": "Parque del Retiro",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Monumento_a_Alfonso_XII_de_Espa%C3%B1a_en_los_Jardines_del_Retiro_-_04.jpg",
-        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Monumento_a_Alfonso_XII_de_Espa%C3%B1a_en_los_Jardines_del_Retiro_-_04.jpg\">Carlos Delgado</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">CC BY-SA 3.0</a>, via Wikimedia Commons",
-        "description": "Le grand poumon vert de Madrid, incontournable pour ses monuments emblématiques, son étang monumental et son atmosphère vivante au cœur de la ville.",
-        "link": "https://www.esmadrid.com/fr/information-touristique/parque-del-retiro",
+        "title": "Puerta del Sol",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/MADRID_100206_UDCI_023.jpg",
+        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:MADRID_100206_UDCI_023.jpg\">Alfredo Urdaci / PromoMadrid</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0\">CC BY-SA 2.0</a>, via Wikimedia Commons",
+        "description": "Le cœur géographique et symbolique de Madrid, point de départ officiel de toutes les routes d’Espagne et carrefour incontournable de la ville.",
+        "link": "https://www.esmadrid.com/fr/information-touristique/puerta-del-sol",
         "linkLabel": "En savoir plus"
       }
     },
@@ -20,14 +20,14 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.690689, 40.411487]
+        "coordinates": [-3.707374, 40.41542]
       },
       "properties": {
-        "title": "Jardín Botánico de Madrid",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Estanque_del_Jardin_Botanico.jpg",
-        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Estanque_del_Jardin_Botanico.jpg\">Jan S0L0</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">CC BY-SA 2.0</a>, via Wikimedia Commons",
-        "description": "Le jardin scientifique le plus élégant de Madrid, idéal pour découvrir des milliers d’espèces végétales dans un cadre historique à deux pas du Prado.",
-        "link": "https://www.esmadrid.com/fr/information-touristique/jardin-botanique-royal",
+        "title": "Plaza Mayor",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/4/44/Plaza_Mayor_de_Madrid_06.jpg",
+        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Plaza_Mayor_de_Madrid_06.jpg\">Sebastian Dubiel</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/de/deed.fr\">CC BY-SA 3.0 DE</a>, via Wikimedia Commons",
+        "description": "La place la plus célèbre de Madrid, chef-d’œuvre d’architecture harmonieuse et scène historique majeure depuis plus de 400 ans.",
+        "link": "https://www.esmadrid.com/fr/information-touristique/plaza-mayor-madrid",
         "linkLabel": "En savoir plus"
       }
     },
@@ -35,14 +35,14 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.713977, 40.420561]
+        "coordinates": [-3.693093, 40.41932]
       },
       "properties": {
-        "title": "Jardines de Sabatini",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/Jardines_de_Sabatini_%28Madrid%29_01.jpg",
-        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Jardines_de_Sabatini_(Madrid)_01.jpg\">Richie Diesterheft from United States</a>, <a href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">CC BY 2.0</a>, via Wikimedia Commons",
-        "description": "Les jardins les plus raffinés du Palais Royal, parfaits pour admirer une perspective royale et un coucher de soleil spectaculaire.",
-        "link": "https://www.esmadrid.com/fr/information-touristique/jardines-de-sabatini",
+        "title": "Plaza de Cibeles",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/c/c1/Palacio_de_Comunicaciones_-_47.jpg",
+        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Palacio_de_Comunicaciones_-_47.jpg\">Carlos Delgado,</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+        "description": "La place monumentale la plus iconique de Madrid, dominée par sa fontaine mythique et le majestueux Palais de Cibeles.",
+        "link": "https://fr.wikipedia.org/wiki/Place_de_Cyb%C3%A8le",
         "linkLabel": "En savoir plus"
       }
     },
@@ -50,78 +50,201 @@
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.71807, 40.41809]
+        "coordinates": [-3.712181, 40.418321]
       },
       "properties": {
-        "title": "Campo del Moro",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Campo_del_Moro_%28Madrid%29_04.jpg",
-        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Campo_del_Moro_(Madrid)_04.jpg\">Bjaglin from Sweden</a>, <a href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">CC BY 2.0</a>, via Wikimedia Commons",
-        "description": "Situé derrière le Palais Royal, ce jardin historique offre une ambiance paisible, avec de grandes pelouses, des allées ombragées et des vues uniques sur le palais."
+        "title": "Plaza de Oriente",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Madrid_-_Royal_Palace_of_Madrid_-_20171027160239.jpg",
+        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Madrid_-_Royal_Palace_of_Madrid_-_20171027160239.jpg\">Oliver Gargan</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+        "description": "La place royale par excellence, située entre le Palais Royal et le Teatro Real, offrant l’une des perspectives les plus élégantes de Madrid.",
+        "link": "https://www.esmadrid.com/fr/information-touristique/jardines-de-la-plaza-de-oriente",
+        "linkLabel": "En savoir plus"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.735945, 40.419748]
+        "coordinates": [-3.712532, 40.42318]
       },
       "properties": {
-        "title": "Casa de Campo",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/7/74/008998_-_Madrid_%289756922166%29.jpg",
-        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:008998_-_Madrid_(9756922166).jpg\">M.Peinado from Alcalá de Henares, España</a>, <a href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">CC BY 2.0</a>, via Wikimedia Commons",
-        "description": "Le plus grand parc de Madrid, véritable espace naturel avec forêts, lac et activités variées, idéal pour s’éloigner de l’agitation urbaine."
+        "title": "Plaza de España",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/fb/Plaza_de_Espa%C3%B1a_de_Madrid_-_02.jpg",
+        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Plaza_de_Espa%C3%B1a_de_Madrid_-_02.jpg\">Carlos Delgado</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+        "description": "La grande place rénovée du Madrid moderne, porte d’entrée entre Gran Vía, espaces verts et panorama urbain spectaculaire.",
+        "link": "https://fr.wikipedia.org/wiki/Place_d%27Espagne_%28Madrid%29",
+        "linkLabel": "En savoir plus"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.725188, 40.429696]
+        "coordinates": [-3.7104, 40.415222]
       },
       "properties": {
-        "title": "Parque del Oeste",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Parque_del_Oeste_de_Madrid_en_abril_de_2022_12.jpg",
-        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Parque_del_Oeste_de_Madrid_en_abril_de_2022_12.jpg\">Emilio J. Rodríguez Posada</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">CC BY-SA 4.0</a>, via Wikimedia Commons",
-        "description": "Parc agréable et vallonné à l’ouest du centre, connu pour ses jardins de roses et pour ses points de vue exceptionnels au coucher du soleil."
+        "title": "Plaza de la Villa",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/5/56/Plaza_de_la_Villa_%28Madrid%29_01.jpg",
+        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Plaza_de_la_Villa_(Madrid)_01.jpg\">Malouette from Copenhagen (Denmark).</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">CC BY-SA 2.0</a>, via Wikimedia Commons",
+        "description": "Le cœur médiéval de Madrid, où l’on découvre la ville avant les rois et les grandes avenues.",
+        "link": "https://www.esmadrid.com/fr/information-touristique/plaza-de-la-villa",
+        "linkLabel": "En savoir plus"
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.715244, 40.412581]
+        "coordinates": [-3.711579, 40.412988]
       },
       "properties": {
-        "title": "Jardines de Las Vistillas",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/c/ce/MADRID_VERDE_JARDIN-MIRADOR_DE_LAS_VISTILLAS_VISITA_COMENTADA_-_panoramio_-_Concepcion_AMAT_ORTA%E2%80%A6_%2815%29.jpg",
-        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:MADRID_VERDE_JARDIN-MIRADOR_DE_LAS_VISTILLAS_VISITA_COMENTADA_-_panoramio_-_Concepcion_AMAT_ORTA%E2%80%A6_(15).jpg\">Concepcion AMAT ORTA…</a>, <a href=\"https://creativecommons.org/licenses/by/3.0/deed.en\">CC BY 3.0</a>, via Wikimedia Commons",
-        "description": "Petit jardin offrant l’une des plus belles vues sur le sud de Madrid, apprécié pour son ambiance locale et ses couchers de soleil."
+        "title": "Plaza de la Paja",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/3/36/Plaza_de_la_Paja_02.jpg",
+        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Plaza_de_la_Paja_02.jpg\">Bernard Gagnon</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.fr\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+        "description": "Une place paisible et chargée d’histoire dans le quartier de La Latina, idéale pour découvrir un Madrid plus authentique et discret."
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.660571, 40.424114]
+        "coordinates": [-3.707321, 40.410584]
       },
       "properties": {
-        "title": "Parque Quinta de la Fuente del Berro",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Fuente_del_Berro.jpg",
-        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Fuente_del_Berro.jpg\">Cillas</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">CC BY-SA 4.0</a>, via Wikimedia Commons",
-        "description": "Parc discret du quartier de Salamanca, apprécié pour son calme, ses sculptures et ses allées ombragées loin du tourisme de masse."
+        "title": "Plaza de Cascorro",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/PlazaCascorroMadrid.jpg",
+        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:PlazaCascorroMadrid.jpg\">Raquel Lorenzo Martín</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+        "description": "Cœur animé du célèbre marché El Rastro, cette place est un point de rendez-vous incontournable pour vivre l’ambiance populaire madrilène."
       }
     },
     {
       "type": "Feature",
       "geometry": {
         "type": "Point",
-        "coordinates": [-3.71559, 40.398105]
+        "coordinates": [-3.700791, 40.414804]
       },
       "properties": {
-        "title": "Madrid Río",
-        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Park_space%2C_Madrid_Rio.jpg",
-        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Park_space,_Madrid_Rio.jpg\">La Citta Vita</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">CC BY-SA 2.0</a>, via Wikimedia Commons",
-        "description": "Grand espace urbain aménagé le long du fleuve Manzanares, idéal pour se promener, faire du vélo et profiter d’un Madrid moderne et ouvert."
+        "title": "Plaza de Santa Ana",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Plaza_Santa_Ana_May2013.JPG",
+        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Plaza_Santa_Ana_May2013.JPG\">El fosilmaníaco</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+        "description": "Une place vibrante du quartier littéraire, entourée de théâtres, de bars et de terrasses, parfaite pour profiter de l’ambiance madrilène."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.704092, 40.426968]
+      },
+      "properties": {
+        "title": "Plaza del Dos de Mayo",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/f/fb/PlazadelDosdeMayo.jpg",
+        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:PlazadelDosdeMayo.jpg\">Vsieger</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+        "description": "Lieu symbolique de la révolte madrilène de 1808, cette place animée est aujourd’hui l’un des centres de vie les plus connus du quartier Malasaña."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.696594, 40.41571]
+      },
+      "properties": {
+        "title": "Plaza de las Cortes",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/2/2f/Madrid_-_Palacio_de_las_Cortes_%2835349522164%29.jpg",
+        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Madrid_-_Palacio_de_las_Cortes_(35349522164).jpg\">Fred Romero from Paris, France</a>, <a href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">CC BY 2.0</a>, via Wikimedia Commons",
+        "description": "Située face au Parlement espagnol, cette place élégante attire par son importance politique, son cadre monumental et sa proximité avec le Prado et le quartier des Lettres."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.693203, 40.449456]
+      },
+      "properties": {
+        "title": "Plaza de Pablo Ruiz Picasso",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/Madrid_-_AZCA%2C_Plaza_de_Pablo_Ruiz_Picasso_3.jpg",
+        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Madrid_-_AZCA,_Plaza_de_Pablo_Ruiz_Picasso_3.jpg\">Zarateman</a>, <a href=\"URL_LICENCE\">CCO</a>, via Wikimedia Commons",
+        "description": "Grande esplanade du quartier d’affaires AZCA, cette place séduit par son environnement de gratte-ciels et son atmosphère de Madrid moderne et dynamique."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.703544, 40.414481]
+      },
+      "properties": {
+        "title": "Plaza de Jacinto Benavente",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Teatro_Calder%C3%B3n_%28Madrid%29_02.jpg",
+        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Teatro_Calder%C3%B3n_(Madrid)_02.jpg\">Luis García</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+        "description": "À deux pas de Sol et de la Plaza Mayor, cette place centrale marque une transition animée entre le Madrid historique, commerçant et théâtral."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.705812, 40.419857]
+      },
+      "properties": {
+        "title": "Plaza de Callao",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/0/08/City_of_Madrid_%2818038988892%29.jpg",
+        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:City_of_Madrid_(18038988892).jpg\">Diriye Amey from Locarno, Switzerland</a>, <a href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">CC BY 2.0</a>, via Wikimedia Commons",
+        "description": "L’une des places les plus animées de Madrid, connue pour ses cinémas, ses enseignes lumineuses et son emplacement stratégique au cœur de la Gran Vía."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.690447, 40.425173]
+      },
+      "properties": {
+        "title": "Plaza de Colón",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/b/b3/Plaza_de_Col%C3%B3n_%28Madrid%29_13.jpg",
+        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Plaza_de_Col%C3%B3n_(Madrid)_13.jpg\">Luis García</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+        "description": "Place emblématique du nord du centre-ville, elle attire par ses monuments dédiés à Christophe Colomb, ses grands drapeaux et sa position entre culture et shopping."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.711618, 40.416953]
+      },
+      "properties": {
+        "title": "Plaza de Ramales",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/d/da/Madrid_-_Plaza_de_Ramales_-_20110418_152648.jpg",
+        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Madrid_-_Plaza_de_Ramales_-_20110418_152648.jpg\">Barcex</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+        "description": "Petite place paisible à deux pas du Palais Royal et du Teatro Real, appréciée pour son atmosphère calme et son ancrage dans le vieux Madrid."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.689332, 40.465578]
+      },
+      "properties": {
+        "title": "Plaza de Castilla",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/6/69/Plaza_de_Castilla%2C_Madrid.jpg",
+        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Plaza_de_Castilla,_Madrid.jpg\">FouPic</a>, <a href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">CC BY 2.0</a>, via Wikimedia Commons",
+        "description": "Grande porte d’entrée du nord de Madrid, cette place est connue pour les tours KIO inclinées et son rôle majeur dans les transports et le paysage urbain contemporain."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [-3.673371, 40.42395]
+      },
+      "properties": {
+        "title": "Plaza de Salvador Dalí",
+        "image": "https://upload.wikimedia.org/wikipedia/commons/8/81/Plaza_de_Dal%C3%AD_%28Madrid%29_08.jpg",
+        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Plaza_de_Dal%C3%AD_(Madrid)_08.jpg\">Luis García</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.5/deed.en\">CC BY-SA 2.5</a>, via Wikimedia Commons",
+        "description": "Située dans le quartier élégant de Salamanca, cette vaste place moderne est marquée par ses espaces ouverts, son ambiance résidentielle et sa proximité avec la Calle de Alcalá et le parc du Retiro."
       }
     }
   ]
