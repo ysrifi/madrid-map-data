@@ -3,14 +3,11 @@
   "features": [
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.714307, 40.418016]
-      },
+      "geometry": { "type": "Point", "coordinates": [-3.714307, 40.418016] },
       "properties": {
         "title": "Palacio Real",
         "image": "https://upload.wikimedia.org/wikipedia/commons/8/81/Palacio_Real_%28Madrid%29_18.jpg",
-        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Palacio_Real_(Madrid)_18.jpg\">Jean-Pierre Dalbéra</a>, <a href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">CC BY 2.0</a>, via Wikimedia Commons",
+        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Palacio_Real_(Madrid)_18.jpg\" target=\"_blank\" rel=\"noopener noreferrer\">Jean-Pierre Dalbéra</a>, <a href=\"https://creativecommons.org/licenses/by/2.0/deed.en\" target=\"_blank\" rel=\"noopener noreferrer\">CC BY 2.0</a>, via Wikimedia Commons",
         "description": "Le plus grand palais royal d’Europe occidentale, incontournable pour comprendre la grandeur, le pouvoir et le faste de la monarchie espagnole.",
         "link": "https://www.esmadrid.com/fr/information-touristique/palais-royal",
         "linkLabel": "En savoir plus"
@@ -18,14 +15,11 @@
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.688727, 40.419993]
-      },
+      "geometry": { "type": "Point", "coordinates": [-3.688727, 40.419993] },
       "properties": {
         "title": "Puerta de Alcalá",
         "image": "https://upload.wikimedia.org/wikipedia/commons/0/06/Puerta_de_Alcal%C3%A1_2025.jpg",
-        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Puerta_de_Alcal%C3%A1_2025.jpg\">Fernando Pascullo</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Puerta_de_Alcal%C3%A1_2025.jpg\" target=\"_blank\" rel=\"noopener noreferrer\">Fernando Pascullo</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\" target=\"_blank\" rel=\"noopener noreferrer\">CC BY-SA 4.0</a>, via Wikimedia Commons",
         "description": "L’un des monuments les plus photographiés de Madrid, symbole des anciennes portes royales et passage emblématique entre le centre historique et le parc du Retiro.",
         "link": "https://www.esmadrid.com/fr/information-touristique/puerta-de-alcala",
         "linkLabel": "En savoir plus"
@@ -33,14 +27,11 @@
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.714589, 40.415711]
-      },
+      "geometry": { "type": "Point", "coordinates": [-3.714589, 40.415711] },
       "properties": {
         "title": "Catedral de la Almudena",
         "image": "https://upload.wikimedia.org/wikipedia/commons/8/88/Catedral_de_la_Almudena_de_noche._Madrid%2C_Espa%C3%B1a_04.jpg",
-        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Catedral_de_la_Almudena_de_noche._Madrid,_Espa%C3%B1a_04.jpg\">Riozujar</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">C BY-SA 4.0</a>, via Wikimedia Commons",
+        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Catedral_de_la_Almudena_de_noche._Madrid,_Espa%C3%B1a_04.jpg\" target=\"_blank\" rel=\"noopener noreferrer\">Riozujar</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\" target=\"_blank\" rel=\"noopener noreferrer\">C BY-SA 4.0</a>, via Wikimedia Commons",
         "description": "La cathédrale principale de Madrid, unique par sa position face au Palais Royal et par la vue spectaculaire depuis son dôme.",
         "link": "https://www.esmadrid.com/fr/information-touristique/catedral-de-la-almudena",
         "linkLabel": "En savoir plus"
@@ -48,14 +39,11 @@
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.717613, 40.424069]
-      },
+      "geometry": { "type": "Point", "coordinates": [-3.717613, 40.424069] },
       "properties": {
         "title": "Templo de Debod",
         "image": "https://upload.wikimedia.org/wikipedia/commons/e/ed/El_Templo_de_Debod.JPG",
-        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:El_Templo_de_Debod.JPG\">Choniron</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/es/deed.en\">CC BY-SA 3.0 ES</a>, via Wikimedia Commons",
+        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:El_Templo_de_Debod.JPG\" target=\"_blank\" rel=\"noopener noreferrer\">Choniron</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/es/deed.en\" target=\"_blank\" rel=\"noopener noreferrer\">CC BY-SA 3.0 ES</a>, via Wikimedia Commons",
         "description": "Un véritable temple égyptien au cœur de Madrid, réputé pour offrir le plus beau coucher de soleil de la ville.",
         "link": "https://www.esmadrid.com/fr/information-touristique/temple-debod",
         "linkLabel": "En savoir plus"
@@ -63,14 +51,11 @@
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.663365, 40.431298]
-      },
+      "geometry": { "type": "Point", "coordinates": [-3.663365, 40.431298] },
       "properties": {
         "title": "Plaza de Toros de Las Ventas",
         "image": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Plaza_de_Toros_de_Las_Ventas_%28Madrid%29_04.jpg",
-        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Plaza_de_Toros_de_Las_Ventas_(Madrid)_04.jpg\">Luis García</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Plaza_de_Toros_de_Las_Ventas_(Madrid)_04.jpg\" target=\"_blank\" rel=\"noopener noreferrer\">Luis García</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\" target=\"_blank\" rel=\"noopener noreferrer\">CC BY-SA 3.0</a>, via Wikimedia Commons",
         "description": "La plus grande arène d’Espagne et l’une des plus célèbres au monde, incontournable pour comprendre la culture et l’architecture madrilènes.",
         "link": "https://www.esmadrid.com/fr/information-touristique/arenes-ventas",
         "linkLabel": "En savoir plus"
@@ -78,14 +63,11 @@
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.697386, 40.418766]
-      },
+      "geometry": { "type": "Point", "coordinates": [-3.697386, 40.418766] },
       "properties": {
         "title": "Edificio Metrópolis",
         "image": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Madrid%2C_Edificio_Metropolis_%2824752521498%29.jpg",
-        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Madrid,_Edificio_Metropolis_(24752521498).jpg\">Dmitry Dzhus from London</a>, <a href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">CC BY 2.0</a>, via Wikimedia Commons",
+        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Madrid,_Edificio_Metropolis_(24752521498).jpg\" target=\"_blank\" rel=\"noopener noreferrer\">Dmitry Dzhus from London</a>, <a href=\"https://creativecommons.org/licenses/by/2.0/deed.en\" target=\"_blank\" rel=\"noopener noreferrer\">CC BY 2.0</a>, via Wikimedia Commons",
         "description": "L’icône absolue de la Gran Vía, reconnaissable à son dôme spectaculaire, symbole du Madrid moderne et élégant.",
         "link": "https://fr.wikipedia.org/wiki/Immeuble_Metr%C3%B3polis",
         "linkLabel": "En savoir plus"
@@ -93,157 +75,121 @@
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.714542, 40.410418]
-      },
+      "geometry": { "type": "Point", "coordinates": [-3.714542, 40.410418] },
       "properties": {
         "title": "Basílica de San Francisco el Grande",
         "image": "https://upload.wikimedia.org/wikipedia/commons/2/26/Bas%C3%ADlica_de_San_Francisco_el_Grande_%28Madrid%29_13.jpg",
-        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Bas%C3%ADlica_de_San_Francisco_el_Grande_(Madrid)_13.jpg\">Enrique Cordero</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">CC BY-SA 2.0</a>, via Wikimedia Commons",
+        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Bas%C3%ADlica_de_San_Francisco_el_Grande_(Madrid)_13.jpg\" target=\"_blank\" rel=\"noopener noreferrer\">Enrique Cordero</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\" target=\"_blank\" rel=\"noopener noreferrer\">CC BY-SA 2.0</a>, via Wikimedia Commons",
         "description": "L’un des grands trésors religieux de Madrid, célèbre pour son immense coupole et pour la richesse artistique de son intérieur."
       }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.710413, 40.418213]
-      },
+      "geometry": { "type": "Point", "coordinates": [-3.710413, 40.418213] },
       "properties": {
         "title": "Teatro Real",
         "image": "https://upload.wikimedia.org/wikipedia/commons/7/71/Teatro_Real_%28Madrid%29_14.jpg",
-        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Teatro_Real_(Madrid)_14.jpg\">Luis García</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Teatro_Real_(Madrid)_14.jpg\" target=\"_blank\" rel=\"noopener noreferrer\">Luis García</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\" target=\"_blank\" rel=\"noopener noreferrer\">CC BY-SA 3.0</a>, via Wikimedia Commons",
         "description": "Le grand opéra de Madrid, à la fois monument historique et haut lieu culturel, admiré pour sa façade élégante et son emplacement royal."
       }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.694151, 40.415255]
-      },
+      "geometry": { "type": "Point", "coordinates": [-3.694151, 40.415255] },
       "properties": {
         "title": "Fuente de Neptuno",
         "image": "https://upload.wikimedia.org/wikipedia/commons/f/f2/Fuente_de_Neptuno_%28Madrid%29_09.jpg",
-        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Fuente_de_Neptuno_(Madrid)_09.jpg\">Luis García</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Fuente_de_Neptuno_(Madrid)_09.jpg\" target=\"_blank\" rel=\"noopener noreferrer\">Luis García</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\" target=\"_blank\" rel=\"noopener noreferrer\">CC BY-SA 3.0</a>, via Wikimedia Commons",
         "description": "Cette fontaine monumentale du Paseo del Prado apporte une touche majestueuse au paysage urbain et forme l’un des repères classiques du centre de Madrid."
       }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.711614, 40.406741]
-      },
+      "geometry": { "type": "Point", "coordinates": [-3.711614, 40.406741] },
       "properties": {
         "title": "Puerta de Toledo",
         "image": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Puerta_de_Toledo_por_la_noche.jpg",
-        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Puerta_de_Toledo_por_la_noche.jpg\">Pablosievert</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Puerta_de_Toledo_por_la_noche.jpg\" target=\"_blank\" rel=\"noopener noreferrer\">Pablosievert</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\" target=\"_blank\" rel=\"noopener noreferrer\">CC BY-SA 4.0</a>, via Wikimedia Commons",
         "description": "Imposante porte monumentale du sud de Madrid, elle rappelle les anciennes entrées de la ville et impressionne par son architecture néoclassique."
       }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.720415, 40.420258]
-      },
+      "geometry": { "type": "Point", "coordinates": [-3.720415, 40.420258] },
       "properties": {
         "title": "Puerta de San Vicente",
         "image": "https://upload.wikimedia.org/wikipedia/commons/0/09/Puerta-san-vicente.jpg",
-        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Puerta-san-vicente.jpg\">FDV</a>, <a href=\"https://creativecommons.org/licenses/by/3.0/deed.en\">CC BY 3.0</a>, via Wikimedia Commons",
+        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Puerta-san-vicente.jpg\" target=\"_blank\" rel=\"noopener noreferrer\">FDV</a>, <a href=\"https://creativecommons.org/licenses/by/3.0/deed.en\" target=\"_blank\" rel=\"noopener noreferrer\">CC BY 3.0</a>, via Wikimedia Commons",
         "description": "Moins connue que d’autres portes madrilènes, elle marque avec élégance l’entrée ouest du centre historique, à proximité de la Plaza de España et de la Casa de Campo."
       }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.703701, 40.422438]
-      },
+      "geometry": { "type": "Point", "coordinates": [-3.703701, 40.422438] },
       "properties": {
         "title": "Iglesia de San Antonio de los Alemanes",
         "image": "https://upload.wikimedia.org/wikipedia/commons/a/a6/Iglesia_de_los_alemanes_%283%29.JPG",
-        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Iglesia_de_los_alemanes_(3).JPG\">Javier Gzz Zapatero</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/es/deed.en\">CC BY-SA 3.0 ES</a>, via Wikimedia Commons",
+        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Iglesia_de_los_alemanes_(3).JPG\" target=\"_blank\" rel=\"noopener noreferrer\">Javier Gzz Zapatero</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/es/deed.en\" target=\"_blank\" rel=\"noopener noreferrer\">CC BY-SA 3.0 ES</a>, via Wikimedia Commons",
         "description": "Église discrète à l’extérieur mais spectaculaire à l’intérieur, elle surprend par ses fresques couvrant presque entièrement ses murs et sa coupole."
       }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.692885, 40.416387]
-      },
+      "geometry": { "type": "Point", "coordinates": [-3.692885, 40.416387] },
       "properties": {
         "title": "Monumento a los Caídos por España",
         "image": "https://upload.wikimedia.org/wikipedia/commons/8/85/Monumento_a_los_Ca%C3%ADdos_por_Espa%C3%B1a_-_SW.jpg",
-        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Monumento_a_los_Ca%C3%ADdos_por_Espa%C3%B1a_-_SW.jpg\">Fernando</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Monumento_a_los_Ca%C3%ADdos_por_Espa%C3%B1a_-_SW.jpg\" target=\"_blank\" rel=\"noopener noreferrer\">Fernando</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\" target=\"_blank\" rel=\"noopener noreferrer\">CC BY-SA 4.0</a>, via Wikimedia Commons",
         "description": "Situé sur la Plaza de la Lealtad, ce monument solennel rend hommage aux Espagnols morts pour la nation et s’inscrit dans l’un des cadres les plus élégants du Prado."
       }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.714917, 40.399617]
-      },
+      "geometry": { "type": "Point", "coordinates": [-3.714917, 40.399617] },
       "properties": {
         "title": "Puente de Toledo",
         "image": "https://upload.wikimedia.org/wikipedia/commons/3/3c/Un_paseo_a_media_tarde_por_los_alrededores_del_r%C3%ADo_Manzanares_%2814170903005%29.jpg",
-        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Un_paseo_a_media_tarde_por_los_alrededores_del_r%C3%ADo_Manzanares_(14170903005).jpg\">M a n u e l from Valdemoro, Spain</a>, <a href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">CC BY 2.0</a>, via Wikimedia Commons",
+        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Un_paseo_a_media_tarde_por_los_alrededores_del_r%C3%ADo_Manzanares_(14170903005).jpg\" target=\"_blank\" rel=\"noopener noreferrer\">M a n u e l from Valdemoro, Spain</a>, <a href=\"https://creativecommons.org/licenses/by/2.0/deed.en\" target=\"_blank\" rel=\"noopener noreferrer\">CC BY 2.0</a>, via Wikimedia Commons",
         "description": "L’un des plus beaux ponts historiques de Madrid, remarquable pour ses sculptures baroques et sa silhouette élégante au-dessus du Manzanares."
       }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.720189, 40.435914]
-      },
+      "geometry": { "type": "Point", "coordinates": [-3.720189, 40.435914] },
       "properties": {
         "title": "Arco de la Victoria (Moncloa)",
         "image": "https://upload.wikimedia.org/wikipedia/commons/4/47/Arco_de_la_victoria_faro_de_moncloa_madrid.jpg",
-        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Arco_de_la_victoria_faro_de_moncloa_madrid.jpg\">Jvhertum</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Arco_de_la_victoria_faro_de_moncloa_madrid.jpg\" target=\"_blank\" rel=\"noopener noreferrer\">Jvhertum</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\" target=\"_blank\" rel=\"noopener noreferrer\">CC BY-SA 3.0</a>, via Wikimedia Commons",
         "description": "Monument imposant du quartier de Moncloa, cet arc triomphal domine un vaste axe urbain et symbolise le Madrid monumental du XXe siècle."
       }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.711552, 40.420004]
-      },
+      "geometry": { "type": "Point", "coordinates": [-3.711552, 40.420004] },
       "properties": {
         "title": "Real Monasterio de la Encarnación",
         "image": "https://upload.wikimedia.org/wikipedia/commons/e/e2/Real_Monasterio_de_la_Encarnacion_Entrance.jpg",
-        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Real_Monasterio_de_la_Encarnacion_Entrance.jpg\">Håkan Svensson (Xauxa)</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Real_Monasterio_de_la_Encarnacion_Entrance.jpg\" target=\"_blank\" rel=\"noopener noreferrer\">Håkan Svensson (Xauxa)</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\" target=\"_blank\" rel=\"noopener noreferrer\">CC BY-SA 3.0</a>, via Wikimedia Commons",
         "description": "À deux pas du Palais Royal, ce monastère raffiné séduit par son importance historique, son architecture austère et son lien étroit avec la cour d’Espagne."
       }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.706254, 40.41866]
-      },
+      "geometry": { "type": "Point", "coordinates": [-3.706254, 40.41866] },
       "properties": {
         "title": "Monasterio de las Descalzas Reales",
         "image": "https://upload.wikimedia.org/wikipedia/commons/8/87/Monasterio_de_las_Descalzas_Reales_de_Madrid.jpg",
-        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Monasterio_de_las_Descalzas_Reales_de_Madrid.jpg\">Alvy</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/es/deed.en\">CC BY-SA 3.0 ES</a>, via Wikimedia Commons",
+        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Monasterio_de_las_Descalzas_Reales_de_Madrid.jpg\" target=\"_blank\" rel=\"noopener noreferrer\">Alvy</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/es/deed.en\" target=\"_blank\" rel=\"noopener noreferrer\">CC BY-SA 3.0 ES</a>, via Wikimedia Commons",
         "description": "Installé dans un ancien palais, ce monastère du centre de Madrid conserve un patrimoine artistique remarquable et une atmosphère de calme inattendue."
       }
     },
     {
       "type": "Feature",
-      "geometry": {
-        "type": "Point",
-        "coordinates": [-3.689904, 40.423728]
-      },
+      "geometry": { "type": "Point", "coordinates": [-3.689904, 40.423728] },
       "properties": {
         "title": "Biblioteca Nacional de España",
         "image": "https://upload.wikimedia.org/wikipedia/commons/c/c6/Biblioteca_Nacional_2013-04_Spain_081.jpg",
-        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Biblioteca_Nacional_2013-04_Spain_081.jpg\">Edmund Gall</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">CC BY-SA 2.0</a>, via Wikimedia Commons",
+        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Biblioteca_Nacional_2013-04_Spain_081.jpg\" target=\"_blank\" rel=\"noopener noreferrer\">Edmund Gall</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\" target=\"_blank\" rel=\"noopener noreferrer\">CC BY-SA 2.0</a>, via Wikimedia Commons",
         "description": "Grande institution culturelle madrilène, ce bâtiment monumental impressionne par sa façade classique et par le prestige de ses collections."
       }
     }
