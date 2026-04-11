@@ -10,7 +10,7 @@
       "properties": {
         "title": "Parque del Retiro",
         "image": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Monumento_a_Alfonso_XII_de_Espa%C3%B1a_en_los_Jardines_del_Retiro_-_04.jpg",
-        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Monumento_a_Alfonso_XII_de_Espa%C3%B1a_en_los_Jardines_del_Retiro_-_04.jpg\">Carlos Delgado</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\">CC BY-SA 3.0</a>, via Wikimedia Commons",
+        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Monumento_a_Alfonso_XII_de_Espa%C3%B1a_en_los_Jardines_del_Retiro_-_04.jpg\" target=\"_blank\" rel=\"noopener noreferrer\">Carlos Delgado</a>, <a href=\"https://creativecommons.org/licenses/by-sa/3.0/deed.en\" target=\"_blank\" rel=\"noopener noreferrer\">CC BY-SA 3.0</a>, via Wikimedia Commons",
         "description": "Le grand poumon vert de Madrid, incontournable pour ses monuments emblématiques, son étang monumental et son atmosphère vivante au cœur de la ville.",
         "link": "https://www.esmadrid.com/fr/information-touristique/parque-del-retiro",
         "linkLabel": "En savoir plus"
@@ -25,7 +25,7 @@
       "properties": {
         "title": "Jardín Botánico de Madrid",
         "image": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Estanque_del_Jardin_Botanico.jpg",
-        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Estanque_del_Jardin_Botanico.jpg\">Jan S0L0</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">CC BY-SA 2.0</a>, via Wikimedia Commons",
+        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Estanque_del_Jardin_Botanico.jpg\" target=\"_blank\" rel=\"noopener noreferrer\">Jan S0L0</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\" target=\"_blank\" rel=\"noopener noreferrer\">CC BY-SA 2.0</a>, via Wikimedia Commons",
         "description": "Le jardin scientifique le plus élégant de Madrid, idéal pour découvrir des milliers d’espèces végétales dans un cadre historique à deux pas du Prado.",
         "link": "https://www.esmadrid.com/fr/information-touristique/jardin-botanique-royal",
         "linkLabel": "En savoir plus"
@@ -40,7 +40,7 @@
       "properties": {
         "title": "Jardines de Sabatini",
         "image": "https://upload.wikimedia.org/wikipedia/commons/1/19/Jardines_de_Sabatini_%28Madrid%29_01.jpg",
-        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Jardines_de_Sabatini_(Madrid)_01.jpg\">Richie Diesterheft from United States</a>, <a href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">CC BY 2.0</a>, via Wikimedia Commons",
+        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Jardines_de_Sabatini_(Madrid)_01.jpg\" target=\"_blank\" rel=\"noopener noreferrer\">Richie Diesterheft from United States</a>, <a href=\"https://creativecommons.org/licenses/by/2.0/deed.en\" target=\"_blank\" rel=\"noopener noreferrer\">CC BY 2.0</a>, via Wikimedia Commons",
         "description": "Les jardins les plus raffinés du Palais Royal, parfaits pour admirer une perspective royale et un coucher de soleil spectaculaire.",
         "link": "https://www.esmadrid.com/fr/information-touristique/jardines-de-sabatini",
         "linkLabel": "En savoir plus"
@@ -55,7 +55,7 @@
       "properties": {
         "title": "Campo del Moro",
         "image": "https://upload.wikimedia.org/wikipedia/commons/f/fe/Campo_del_Moro_%28Madrid%29_04.jpg",
-        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Campo_del_Moro_(Madrid)_04.jpg\">Bjaglin from Sweden</a>, <a href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">CC BY 2.0</a>, via Wikimedia Commons",
+        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Campo_del_Moro_(Madrid)_04.jpg\" target=\"_blank\" rel=\"noopener noreferrer\">Bjaglin from Sweden</a>, <a href=\"https://creativecommons.org/licenses/by/2.0/deed.en\" target=\"_blank\" rel=\"noopener noreferrer\">CC BY 2.0</a>, via Wikimedia Commons",
         "description": "Situé derrière le Palais Royal, ce jardin historique offre une ambiance paisible, avec de grandes pelouses, des allées ombragées et des vues uniques sur le palais."
       }
     },
@@ -68,7 +68,7 @@
       "properties": {
         "title": "Casa de Campo",
         "image": "https://upload.wikimedia.org/wikipedia/commons/7/74/008998_-_Madrid_%289756922166%29.jpg",
-        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:008998_-_Madrid_(9756922166).jpg\">M.Peinado from Alcalá de Henares, España</a>, <a href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">CC BY 2.0</a>, via Wikimedia Commons",
+        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:008998_-_Madrid_(9756922166).jpg\" target=\"_blank\" rel=\"noopener noreferrer\">M.Peinado from Alcalá de Henares, España</a>, <a href=\"https://creativecommons.org/licenses/by/2.0/deed.en\" target=\"_blank\" rel=\"noopener noreferrer\">CC BY 2.0</a>, via Wikimedia Commons",
         "description": "Le plus grand parc de Madrid, véritable espace naturel avec forêts, lac et activités variées, idéal pour s’éloigner de l’agitation urbaine."
       }
     },
@@ -81,7 +81,7 @@
       "properties": {
         "title": "Parque del Oeste",
         "image": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Parque_del_Oeste_de_Madrid_en_abril_de_2022_12.jpg",
-        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Parque_del_Oeste_de_Madrid_en_abril_de_2022_12.jpg\">Emilio J. Rodríguez Posada</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Parque_del_Oeste_de_Madrid_en_abril_de_2022_12.jpg\" target=\"_blank\" rel=\"noopener noreferrer\">Emilio J. Rodríguez Posada</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\" target=\"_blank\" rel=\"noopener noreferrer\">CC BY-SA 4.0</a>, via Wikimedia Commons",
         "description": "Parc agréable et vallonné à l’ouest du centre, connu pour ses jardins de roses et pour ses points de vue exceptionnels au coucher du soleil."
       }
     },
@@ -94,7 +94,7 @@
       "properties": {
         "title": "Jardines de Las Vistillas",
         "image": "https://upload.wikimedia.org/wikipedia/commons/c/ce/MADRID_VERDE_JARDIN-MIRADOR_DE_LAS_VISTILLAS_VISITA_COMENTADA_-_panoramio_-_Concepcion_AMAT_ORTA%E2%80%A6_%2815%29.jpg",
-        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:MADRID_VERDE_JARDIN-MIRADOR_DE_LAS_VISTILLAS_VISITA_COMENTADA_-_panoramio_-_Concepcion_AMAT_ORTA%E2%80%A6_(15).jpg\">Concepcion AMAT ORTA…</a>, <a href=\"https://creativecommons.org/licenses/by/3.0/deed.en\">CC BY 3.0</a>, via Wikimedia Commons",
+        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:MADRID_VERDE_JARDIN-MIRADOR_DE_LAS_VISTILLAS_VISITA_COMENTADA_-_panoramio_-_Concepcion_AMAT_ORTA%E2%80%A6_(15).jpg\" target=\"_blank\" rel=\"noopener noreferrer\">Concepcion AMAT ORTA…</a>, <a href=\"https://creativecommons.org/licenses/by/3.0/deed.en\" target=\"_blank\" rel=\"noopener noreferrer\">CC BY 3.0</a>, via Wikimedia Commons",
         "description": "Petit jardin offrant l’une des plus belles vues sur le sud de Madrid, apprécié pour son ambiance locale et ses couchers de soleil."
       }
     },
@@ -107,7 +107,7 @@
       "properties": {
         "title": "Parque Quinta de la Fuente del Berro",
         "image": "https://upload.wikimedia.org/wikipedia/commons/1/14/Fuente_del_Berro.jpg",
-        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Fuente_del_Berro.jpg\">Cillas</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\">CC BY-SA 4.0</a>, via Wikimedia Commons",
+        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Fuente_del_Berro.jpg\" target=\"_blank\" rel=\"noopener noreferrer\">Cillas</a>, <a href=\"https://creativecommons.org/licenses/by-sa/4.0/deed.en\" target=\"_blank\" rel=\"noopener noreferrer\">CC BY-SA 4.0</a>, via Wikimedia Commons",
         "description": "Parc discret du quartier de Salamanca, apprécié pour son calme, ses sculptures et ses allées ombragées loin du tourisme de masse."
       }
     },
@@ -120,7 +120,7 @@
       "properties": {
         "title": "Madrid Río",
         "image": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Park_space%2C_Madrid_Rio.jpg",
-        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Park_space,_Madrid_Rio.jpg\">La Citta Vita</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">CC BY-SA 2.0</a>, via Wikimedia Commons",
+        "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Park_space,_Madrid_Rio.jpg\" target=\"_blank\" rel=\"noopener noreferrer\">La Citta Vita</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\" target=\"_blank\" rel=\"noopener noreferrer\">CC BY-SA 2.0</a>, via Wikimedia Commons",
         "description": "Grand espace urbain aménagé le long du fleuve Manzanares, idéal pour se promener, faire du vélo et profiter d’un Madrid moderne et ouvert."
       }
     }
