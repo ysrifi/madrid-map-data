@@ -118,14 +118,14 @@
         "title": "Spectacle au Corral de la Morería",
         "image": "https://upload.wikimedia.org/wikipedia/commons/3/3f/MADRID_060319_MXALX_053.jpg",
         "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:MADRID_060319_MXALX_053.jpg\">Max Alexander / PromoMadrid</a>, <a href=\"https://creativecommons.org/licenses/by/2.0/deed.en\">CC BY 2.0</a>, via Wikimedia Commons",
-        "description": " Assistez à un spectacle au Corral de la Morería, considéré comme le tablao flamenco le plus prestigieux au monde."
+        "description": "Assistez à un spectacle au Corral de la Morería, considéré comme le tablao flamenco le plus prestigieux au monde."
       }
     },
     {
       "type": "Feature",
       "geometry": { "type": "Point", "coordinates": [-3.688353, 40.453057] },
       "properties": {
-        "title": "Match à Estadio Santiago Bernabéu.",
+        "title": "Match à Estadio Santiago Bernabéu",
         "image": "https://upload.wikimedia.org/wikipedia/commons/4/4a/Estadio_Santiago_Bernab%C3%A9u_03.jpg",
         "imageCredit": "<a href=\"https://commons.wikimedia.org/wiki/File:Estadio_Santiago_Bernab%C3%A9u_03.jpg\">David Cornejo from Spain</a>, <a href=\"https://creativecommons.org/licenses/by-sa/2.0/deed.en\">CC BY-SA 2.0</a>, via Wikimedia Commons",
         "description": "Vibrez lors d’un match du Real Madrid, le club le plus titré au monde, au mythique Estadio Santiago Bernabéu."
